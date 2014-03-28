@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C5561B60-C0FF-4511-883C-12C366711C26</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BubbleView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>806923F9-50DA-4FBA-A14C-166995DB1751</key>
+		<string>ssh://github.com/guantonrivera/ManagingViewHierarchy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BubbleView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>806923F9-50DA-4FBA-A14C-166995DB1751</key>
+		<string>../..</string>
+		<key>F7136CE8-11C7-48B3-B4F3-067D5DA01B1F</key>
+		<string>../../BubbleView</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/guantonrivera/ManagingViewHierarchy.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>806923F9-50DA-4FBA-A14C-166995DB1751</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F7136CE8-11C7-48B3-B4F3-067D5DA01B1F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BubbleView</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>806923F9-50DA-4FBA-A14C-166995DB1751</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ManagingViewHierarchy</string>
+		</dict>
+	</array>
+</dict>
+</plist>
